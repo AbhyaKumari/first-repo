@@ -1,4 +1,4 @@
 # first-repo
 This is my first repository.
 <br>
-Authur - Abhya Kumari
+Authur - Abhya Kumari (IIIT Kalyani)
